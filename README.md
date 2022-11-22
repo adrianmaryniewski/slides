@@ -1,3 +1,3 @@
 # slides
 
-Here you can find presentations about web app's security and test automation.
+Here you can find presentations about web app's security, test automation and also testing fundamentals.
